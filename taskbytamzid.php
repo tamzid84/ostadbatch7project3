@@ -1,7 +1,7 @@
 
 <?php 
 
-define("TASKS_FILE" , "taskstamzid.json" ) ;
+define("TASKS_FILE" , "tasks.json" ) ;
 
 function saveTasks(array $tasks):void
 {
